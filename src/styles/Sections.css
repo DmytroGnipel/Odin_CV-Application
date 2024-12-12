@@ -1,0 +1,12 @@
+.titleInCV {
+    color: red;
+    border: black 1px dotted;
+    padding: 5px 5px 5px 15px;
+    text-align: left;
+  }
+  
+.contacts {
+    display: flex;
+    justify-content: space-around;
+}
+  
